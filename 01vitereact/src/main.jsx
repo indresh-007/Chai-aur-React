@@ -43,7 +43,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
     // anotherElement
 
-    // reactElement
-   
+    // reactElement  
 )
- 
