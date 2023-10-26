@@ -19,7 +19,7 @@ function Card({username, btnText}) {
        Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi,
        debitis?
        </p>
-       
+
        <button className="mt-2 inline-flex cursor-pointer items-center text-sm font-semibold text-white">
 
        {btnText}→
